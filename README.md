@@ -23,9 +23,9 @@ Check out and install the workflow in this repo.   Run it
 1. Install the workflow
  * Click the saved workflow to install it
 1. Set a keyboard shortcut
-.* Open System preferences, go to keyboard tab, select shortcuts
-.* Find Scrub Clipboard in the services section and set a shortcut
-
+ * Open System preferences, go to keyboard tab, select shortcuts
+ * Find Scrub Clipboard in the services section and set a shortcut
+ * I chose cmd-option-x to mean "cut nothing"
 
 # Why can't I do it with applescript instead of shell script
 
