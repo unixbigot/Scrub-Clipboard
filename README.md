@@ -29,7 +29,7 @@ Check out and install the workflow in this repo.   Run it
 
 # Why can't I do it with applescript instead of shell script
 
-I don't know, the apple script below SHOULD work but does not.  Send a PR if you get it working.it
+I don't know, the apple script below SHOULD work but does not.  Send a PR if you get it working.
 
 ```
 on run {input, parameters}
